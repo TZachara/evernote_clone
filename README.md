@@ -1,3 +1,5 @@
+Evernote Close inspired by youtube tutorial https://www.youtube.com/watch?v=3qnrfkeguXg&ab_channel=PortEXE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
